@@ -8,7 +8,7 @@ This project features an interactive Power BI dashboard designed to analyze key 
 
 ![Image](https://github.com/user-attachments/assets/ef686f94-b331-4406-896d-e8c213552da5)
 
-
+Dashboard Link: [(https://bpitdelhi-my.sharepoint.com/:u:/g/personal/devjeet25ai-ds22_bpitindia_edu_in/EQKUhr-ZfJZDrGUGd_xtYtcBgvbki5jxNp85cWf4ASB5oQ?e=FpGW8A)]
 ## Objectives
 
 The dashboard addresses the following key objectives:
