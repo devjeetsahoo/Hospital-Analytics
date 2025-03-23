@@ -65,7 +65,7 @@ The dashboard includes the following visualizations, providing a comprehensive v
      ![Image]()
 
 
-*   **Feedback Volume per Doctor:** A donut chart displaying the volume of patient feedback for each doctor, highlighting areas where improvements may be needed.  This visualization allows for quick identification of doctors with the highest and lowest feedback volumes.
+*   **Average Rating Per Doctor:** A donut chart illustrating the average patient rating (on a scale likely from 1-5) for each doctor. Each slice of the donut represents a different doctor, with the size of the slice corresponding to their average rating. This visualization facilitates quick identification of doctors with the highest and lowest average ratings, enabling targeted interventions to improve patient satisfaction. The chart includes the doctor's name and their average rating value.
 
     ![Image]()
 
@@ -87,6 +87,9 @@ The dashboard includes the following visualizations, providing a comprehensive v
 
 
     !Image]()
+
+
+
 
 
 ## Contributing
