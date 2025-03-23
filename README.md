@@ -62,13 +62,31 @@ The dashboard includes the following visualizations, providing a comprehensive v
 
 *   **Bed Occupancy Chart:** A bar chart illustrating the number of occupied beds in Private, General, and ICU wards, allowing for easy comparison of occupancy rates across different ward types.
 
-
+     ![Image]()
 
 
 *   **Feedback Volume per Doctor:** A donut chart displaying the volume of patient feedback for each doctor, highlighting areas where improvements may be needed.  This visualization allows for quick identification of doctors with the highest and lowest feedback volumes.
+
+    ![Image]()
+
+    
 *   **Diagnosis-wise Patient Count:**  A horizontal bar chart ranking the most common diagnoses based on patient count, enabling resource allocation based on the prevalence of specific conditions.
+
+
+      ![Image]()
+
+
 *   **Insurance Upon Billing Ratio:**  A line chart comparing health insurance amounts to billing amounts for common procedures (CT Scan, Ultrasound, MRI, Blood Test, X-Ray). This helps to identify discrepancies between insurance coverage and actual billing costs.
+
+    ![Image]()
+
+
+
+
 *   **Key Metrics Overview:** The dashboard provides prominent display of aggregated metrics such as total bill amount, admit date, discharge date, and follow-up date.
+
+
+    !Image]()
 
 
 ## Contributing
