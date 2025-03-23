@@ -4,6 +4,11 @@
 
 This project features an interactive Power BI dashboard designed to analyze key performance indicators (KPIs) for Papollo Hospitals. The dashboard provides insights into patient flow, bed occupancy, billing trends, diagnosis distributions, and doctor feedback, enabling data-driven decision-making for hospital management.
 
+
+
+![Image](https://github.com/user-attachments/assets/ef686f94-b331-4406-896d-e8c213552da5)
+
+
 ## Objectives
 
 The dashboard addresses the following key objectives:
@@ -62,40 +67,27 @@ The dashboard includes the following visualizations, providing a comprehensive v
 
 *   **Bed Occupancy Chart:** A bar chart illustrating the number of occupied beds in Private, General, and ICU wards, allowing for easy comparison of occupancy rates across different ward types.
 
-     ![Image]()
+     ![Image](https://github.com/user-attachments/assets/24944013-c0ec-400b-b04b-0d2c5c5c266a)
 
 
 *   **Average Rating Per Doctor:** A donut chart illustrating the average patient rating (on a scale likely from 1-5) for each doctor. Each slice of the donut represents a different doctor, with the size of the slice corresponding to their average rating. This visualization facilitates quick identification of doctors with the highest and lowest average ratings, enabling targeted interventions to improve patient satisfaction. The chart includes the doctor's name and their average rating value.
 
-    ![Image]()
+    ![Image](https://github.com/user-attachments/assets/8d9ab4e9-1160-4c81-8b4f-730bfcc76031)
 
     
 *   **Diagnosis-wise Patient Count:**  A horizontal bar chart ranking the most common diagnoses based on patient count, enabling resource allocation based on the prevalence of specific conditions.
 
 
-      ![Image]()
+      ![Image](https://github.com/user-attachments/assets/ae550df8-07aa-4523-9a82-769e89d70961)
 
 
 *   **Insurance Upon Billing Ratio:**  A line chart comparing health insurance amounts to billing amounts for common procedures (CT Scan, Ultrasound, MRI, Blood Test, X-Ray). This helps to identify discrepancies between insurance coverage and actual billing costs.
 
-    ![Image]()
-
-
-
-
-*   **Key Metrics Overview:** The dashboard provides prominent display of aggregated metrics such as total bill amount, admit date, discharge date, and follow-up date.
-
-
-    !Image]()
-
-
-
+    ![Image](https://github.com/user-attachments/assets/474fc2d1-680b-4e62-809d-cc20293036f0)
 
 
 ## Contributing
 
 Contributions to this project are welcome! Feel free to submit pull requests with bug fixes, new features, or improvements to the documentation.
 
-## License
 
-[Insert License Information Here, e.g., MIT License]
